@@ -10,7 +10,7 @@ I recently moved from Hong Kong 🇭🇰 to the Netherlands 🇳🇱 and am eage
 
  I’m currently coding on ⌨️
  
-HTML <img src="<i class="fab fa-html5"></i>
+HTML <img src="https://icons8.com/icon/20909/html-5">
 
 
  <img src="https://camo.githubusercontent.com/2a3c7fc231aff520b66d757efebf502941249f8c125a4542531ccda5f3bf77f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d436f6c6f724e616d6526636f6c6f723d626c61636b">
