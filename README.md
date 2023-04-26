@@ -1,6 +1,8 @@
 ### Hi there 👋 
 🍒I am Cherry Leung.
 I'm a Full-Stack Developer with a background in ✈️ airport aviation for seven years, bringing unique problemsolving skills and teamwork abilities to the tech industry.
+
+
 I recently moved from Hong Kong 🇭🇰 to the Netherlands 🇳🇱 and am eager to embark on the next chapter of my career in a new environment.
 
 
